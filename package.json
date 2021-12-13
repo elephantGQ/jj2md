@@ -1,0 +1,17 @@
+{
+  "name": "jujin2md",
+  "version": "1.0.0",
+  "description": "",
+  "main": "md.js",
+  "scripts": {
+    "jj2md": "node md.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "clipboardy": "^2.3.0",
+    "jquery": "^3.5.1",
+    "puppeteer": "^4.0.1",
+    "turndown": "^6.0.0"
+  }
+}
